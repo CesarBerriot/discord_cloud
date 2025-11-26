@@ -7,7 +7,7 @@ Turning Discord into a free cloud storage service through Bot API abuse bc funny
 - Build target `discord_cloud` using MSVC or MinGW-w64
 
 ### Disclaimer
-The code within this repository absolute nonsensical RAD-approached buffoonery and you are to be held responsible for the consequences of its usage.
+The code within this repository is absolute nonsensical RAD-approached buffoonery and you are to be held responsible for the consequences of its usage.
 
 ### Donate
 
